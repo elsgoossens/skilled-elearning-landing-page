@@ -65,7 +65,7 @@ No specific resources used here
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@elsgoossens](https://www.frontendmentor.io/profile/elsgoossens)
 
 ## Acknowledgments
 

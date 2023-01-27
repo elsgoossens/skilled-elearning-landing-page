@@ -74,7 +74,7 @@ a{
 }
 
 header .cta, footer .cta{
-    padding: 10px 20px;
+    padding: 12px 20px;
     border-radius: 28px;
 }
 
@@ -119,6 +119,7 @@ h1{
     font-size: 4rem;
     font-weight: var(--fw-extra-bold);
     margin-bottom: 2.5rem;
+    color:var(--clr-main);
 }
 
 .body-m{
@@ -221,6 +222,14 @@ h1{
 }
 
 @media screen and (min-width:1440px) {
+
+    .intro{
+        width: 50%;
+    }
+
+    .intro h1{
+        font-size: 5.6rem;
+    }
 
     .main-img{
         position: absolute;
