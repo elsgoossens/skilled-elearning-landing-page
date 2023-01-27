@@ -210,7 +210,7 @@ h1{
     }
 
     .main-img img{
-        content:url('/assets/image-hero-tablet.png');
+        content:url('./assets/image-hero-tablet.png');
         transform: scale(0.75,0.75);
     }
 }
@@ -228,6 +228,11 @@ h1{
         width: 50%;
     }
 
+    header .cta, footer .cta{
+        padding: 20px 25px;
+        border-radius: 30px;
+    }
+
     .intro h1{
         font-size: 5.6rem;
     }
@@ -240,7 +245,7 @@ h1{
     }
 
     .main-img img{
-        content:url('/assets/image-hero-desktop.png');
+        content:url('./assets/image-hero-desktop.png');
         transform: scale(0.75,0.75);
     }
 
