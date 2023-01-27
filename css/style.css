@@ -5,7 +5,7 @@
     --clr-main:#13183F;
     --clr-main-light:#666CA3;
     --clr-gray: #83869A;
-    --clr-bg: #979797;
+    --clr-bg-gradient: #F0F2FF;
     --clr-hot-pink: #F74780;
     --clr-light-pink:#FFA7C3;
     --clr-white: #FFF;
@@ -52,7 +52,8 @@ header, footer{
 /* styling and layout */
 
 body{
-    background: linear-gradient(var(--clr-white) 50%, var(--clr-bg));
+    background: linear-gradient(var(--clr-white), var(--clr-bg-gradient));
+    height: 100%;
 }
 
 header{
