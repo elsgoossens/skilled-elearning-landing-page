@@ -27,10 +27,13 @@ Users should be able to:
 
 ### Screenshot
 
+On mobile
 ![Preview mobile](/preview.jpg)
 
+On tablet
 ![Preview tablet](/preview-tablet.jpg)
 
+On desktop
 ![Preview desktop](/preview-desktop.jpg)
 
 ### Links
