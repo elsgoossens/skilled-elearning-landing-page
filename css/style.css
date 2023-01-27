@@ -101,7 +101,7 @@ footer{
 
 .intro .cta{
     background: linear-gradient(var(--clr-gradient1-top), var(--clr-gradient1-bottom));
-    margin-top: 2rem;
+    margin-top: 5rem;
     padding: 20px 45px;
     border-radius: 31.5px;
     align-self: flex-start;
@@ -118,6 +118,7 @@ footer{
 h1{
     font-size: 4rem;
     font-weight: var(--fw-extra-bold);
+    margin-top: 17rem;
     margin-bottom: 2.5rem;
     color:var(--clr-main);
 }
