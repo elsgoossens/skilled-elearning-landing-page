@@ -263,6 +263,10 @@ h1{
         margin-left:165px;
         margin-right: 165px;
     }
+
+    .feature-txt{
+        font-size: 1.8rem;
+    }
 }
 
 @media screen and (min-width:1800px) {
