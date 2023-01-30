@@ -210,7 +210,7 @@ h1{
     }
 
     .main-img img{
-        content:url('./assets/image-hero-tablet.webp');
+        content:url('../assets/image-hero-tablet.webp');
         transform: scale(0.75,0.75);
     }
 }
@@ -249,7 +249,7 @@ h1{
     }
 
     .main-img img{
-        content:url('./assets/image-hero-desktop.webp');
+        content:url('../assets/image-hero-desktop.webp');
         transform: scale(0.75,0.75);
     }
 
